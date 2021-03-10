@@ -2,7 +2,7 @@
 ISE Webpack in Docker image
 
 ## How to build image
-Download Xilinx_ISE_DS_Lin_14.7_1015_1.tar [this page](from https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html).
+Download Xilinx_ISE_DS_Lin_14.7_1015_1.tar from [this page](https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html).
 And then clone this repository and run the docker build command with following options.
 
 ```bash
