@@ -20,6 +20,7 @@ $ docker run -it --rm -p 6080:80 -v <Path to license file>:/root/.Xilinx/Xilinx.
 
 And then you can access to `http://<docker host>:6080` to use ISE Webpack via VNC. 
 
+![screenshot](https://raw.githubusercontent.com/ar90n/docker-ise-webpack-vnc/assets/screen.png)
 
 ## License
 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
